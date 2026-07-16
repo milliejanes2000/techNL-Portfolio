@@ -30,7 +30,9 @@ I learnt and built on skills such as:
 4. Computer-Aided Design
 5. Debugging
 6. Coding
-7. Industry Soft Skills
+7. Game Development
+8. User Experience
+9. Industry Soft Skills
   
   ### Courses & Panels
 During my Bootcamp, I completed various courses and panels to learn about different aspects of a career in technology. 
@@ -39,3 +41,10 @@ These included:
 - [Buisness Soft Skills Crash Course on Youtube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtMBsfP-lP28IFvfkISqJofM) and [Social Media Marketing for Small Buisnesses by Ampere](https://www.youtube.com/playlist?list=PL8dPuuaLjXtMBsfP-lP28IFvfkISqJofM).
 - Panels by Carnagie Learning and Electronic Arts' professionals
 - A 3-part presentation series on Game Design by Ampere
+
+### Broader Technology Learning
+In Bootcamp, I was able to explore my curiousity about not only learning new skills, but technology industry news and opinions.
+
+These included the AI podcat Eh I as well as an article on Cree Coding.
+
+
